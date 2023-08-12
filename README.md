@@ -47,6 +47,7 @@ You can embed Callendo anywhere, leading to more opportunities to get more clien
 
 ### [NEW] Embed Callendo widget
 With Callendo you are able to embed a video widget on your website, so you can convert your leads into schedule meetings. 
+
 ![Widget video on your website](https://callendo.com/wp-content/uploads/2023/08/ezgif-1-6fdf57afdc.gif)
 
 And if that wasn't impressive enough, Callendo is soon launching an in-built alternative to Loom, taking video communication to an entirely new level. With Callendo, scheduling is no longer a mundane task but a dynamic engagement tool that not only manages your time but also amplifies your brand and client connection. Prepare for the future of scheduling with Callendo!
